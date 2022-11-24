@@ -1,0 +1,20 @@
+Taxi ID: 1
+Make: Toyota
+Model: Corolla
+Year: 2015
+Mileage: 100000
+Plate Number: ABC1234
+Number of Seats: 4
+Number of Fares: 1
+Total Fares: 100
+______________________________________________
+Taxi ID: 2
+Make: Mercedes
+Model: E-class
+Year: 2019
+Mileage: 120000
+Plate Number: ABD1234
+Number of Seats: 4
+Number of Fares: 0
+Total Fares: 0
+______________________________________________
