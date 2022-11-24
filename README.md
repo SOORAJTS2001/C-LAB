@@ -1,6 +1,6 @@
-to run the code type the following command in the terminal:
+<b>to run the code type the following command in the terminal:</b><br>
 <i>g++ main2.cpp</i>
-then type:
+<b>then type:</b><br>
 <i>./a.out</i>
-press enter and the code will run.
-to stop the code use ctrl+c
+<b>press enter and the code will run.</b><br>
+<b>to stop the code use ctrl+c</b><br>
