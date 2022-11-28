@@ -5,8 +5,8 @@ Year: 2015
 Mileage: 100000
 Plate Number: ABC1234
 Number of Seats: 4
-Number of Fares: 1
-Total Fares: 100
+Number of Fares: 0
+Total Fares: 0
 ______________________________________________
 Taxi ID: 2
 Make: Mercedes
@@ -15,6 +15,16 @@ Year: 2019
 Mileage: 120000
 Plate Number: ABD1234
 Number of Seats: 4
+Number of Fares: 0
+Total Fares: 0
+______________________________________________
+Taxi ID: 11
+Make: BMW1
+Model: ERNAK
+Year: 2022
+Mileage: 45
+Plate Number: 23456
+Number of Seats: 23
 Number of Fares: 0
 Total Fares: 0
 ______________________________________________

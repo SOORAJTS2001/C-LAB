@@ -1,4 +1,6 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<map>
+#include <fstream>
 using namespace std;
 // this is the vehicle class
 class Vehicle

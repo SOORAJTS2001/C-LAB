@@ -1,0 +1,32 @@
+Student ID: 1
+Student Name: Mike
+Student Program: CS
+Student Email: thisisthenew
+Student Phone: 123456789
+Student Attendance: 100
+Student CGPA: 3.5
+______________________________________________________
+Student ID: 2
+Student Name: John
+Student Program: CS
+Student Email: test@senceca.co
+Student Phone: 987654321
+Student Attendance: 100
+Student CGPA: 3.5
+______________________________________________________
+Student ID: 3
+Student Name: Mary
+Student Program: ECE
+Student Email: sample@seneca.co
+Student Phone: 123456789
+Student Attendance: 100
+Student CGPA: 3.5
+______________________________________________________
+Student ID: 4
+Student Name: SHYAM
+Student Program: MECH
+Student Email: SJFKSKJ
+Student Phone: SJDFKSJFKSJF
+Student Attendance: 89
+Student CGPA: 9
+______________________________________________________
